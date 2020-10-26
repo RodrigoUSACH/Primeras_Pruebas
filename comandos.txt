@@ -22,6 +22,19 @@ Listado con las versiones disponibles
 git reset --hard codigo
 Restauramos un archivo a la version indicada en codigo.
 ####################################################################
-git commit -am
+git commit -am "COMENTARIOS"
 Hace un add y luego el commit en una instruccion
 ####################################################################
+####################################################################
+Para subir a GitHub
+
+-Entrar a GitHub, loguearse crear el nuevo proyecto
+-Copiar enlace
+-En la consola pegar el enlace con la instruccion:
+git remote add origin https://github.com/RodrigoUSACH/Primeras_Pruebas.git
+-Luego 
+git push origin master
+y listo.
+####################################################################
+Para traer a local cambios hechos en GitHub
+git pull
