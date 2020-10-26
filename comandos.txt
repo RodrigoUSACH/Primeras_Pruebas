@@ -1,14 +1,19 @@
+####################################################################
 git init	
-Se ejecuta al iniciar el proyecto o cuando se inicia el seguimiento por git.
-
-##################################################################################################
-
-git add
+Se ejecuta al iniciar el proyecto o cuando se inicia el seguimiento 
+por git.
+####################################################################
+git add nombrearchivo
 Agrega archivos a los que queremos seguimiento.
-
+####################################################################
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+####################################################################
 git commit -m "COMENTARIOS"
 Traslada al repositorio local los cambios osea respaldo.
-
+####################################################################
 git status -s
-Listado con todos los archivos y directorios dentro de la carpeta a la que seguimos
+Listado con todos los archivos y directorios dentro de la carpeta a
+la que seguimos
+####################################################################
 
