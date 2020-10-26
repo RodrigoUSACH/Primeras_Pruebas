@@ -21,3 +21,7 @@ Listado con las versiones disponibles
 ####################################################################
 git reset --hard codigo
 Restauramos un archivo a la version indicada en codigo.
+####################################################################
+git commit -am
+Hace un add y luego el commit en una instruccion
+####################################################################
