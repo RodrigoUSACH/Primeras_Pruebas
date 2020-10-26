@@ -16,4 +16,5 @@ git status -s
 Listado con todos los archivos y directorios dentro de la carpeta a
 la que seguimos
 ####################################################################
-
+git log --oneline
+Listado con las versiones disponibles
