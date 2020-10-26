@@ -1,0 +1,14 @@
+git init	
+Se ejecuta al iniciar el proyecto o cuando se inicia el seguimiento por git.
+
+##################################################################################################
+
+git add
+Agrega archivos a los que queremos seguimiento.
+
+git commit -m "COMENTARIOS"
+Traslada al repositorio local los cambios osea respaldo.
+
+git status -s
+Listado con todos los archivos y directorios dentro de la carpeta a la que seguimos
+
