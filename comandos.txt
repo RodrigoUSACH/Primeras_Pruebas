@@ -18,3 +18,6 @@ la que seguimos
 ####################################################################
 git log --oneline
 Listado con las versiones disponibles
+####################################################################
+git reset --hard codigo
+Restauramos un archivo a la version indicada en codigo.
