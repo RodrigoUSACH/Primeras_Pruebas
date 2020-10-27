@@ -46,3 +46,4 @@ Cuando se finaliza el proyecto se agregan tags
 git tag 26-10-20v1 -m "Version 1 del proyecto"
 y luego 
 git push --tags
+####################################################################
