@@ -37,4 +37,12 @@ git push origin master
 y listo.
 ####################################################################
 Para traer a local cambios hechos en GitHub
+-Primero:
+git branch --set-upstream-to=origin/master master
+-Luego
 git pull
+####################################################################
+Cuando se finaliza el proyecto se agregan tags
+git tag 26-10-20v1 -m "Version 1 del proyecto"
+y luego 
+git push --tags
