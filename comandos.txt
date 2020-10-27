@@ -47,3 +47,8 @@ git tag 26-10-20v1 -m "Version 1 del proyecto"
 y luego 
 git push --tags
 ####################################################################
+Para rescatar un archivo perdido:
+Copiar la url en la opcion code, clone HTTPS
+ir a la consola t escribir
+git clone https://github.com/RodrigoUSACH/Primeras_Pruebas.git
+y enter
